@@ -18,7 +18,7 @@ Oral Presentation
   [IPython Notebook](2015_SciPy_PyART_talk/SciPy2015_OpenAccessRadar_jjh.ipynb)
   [Video](https://www.youtube.com/watch?v=FGA1Wd9xTH0)
 
-* [**Speeding Up Python Data Analysis Using Cython**]().
+* [**Speeding Up Python Data Analysis Using Cython**](2015_DePy_Cython_talk.pdf).
   Presented at [DePy 2015](http://mdp.cdm.depaul.edu/DePy2015/default/index),
   Chicago, IL, May 29-30, 2015.
   [Video](http://www.pyvideo.org/video/3538/speeding-up-python-data-analysis-using-cython)
