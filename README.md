@@ -32,7 +32,7 @@ Oral Presentation
   Phoenix, Arizona, January 4-8, 2015.
   [Video](https://ams.confex.com/ams/95Annual/videogateway.cgi/id/29026?recordingid=29026)
 
-* [**New Doppler Spectral Processing Technique for Identifying Atmospheric Signals from Radar Wind Profilers**]().
+* [**New Doppler Spectral Processing Technique for Identifying Atmospheric Signals from Radar Wind Profilers**](2014_ERAD_RWP_talk.pdf).
   Presented at the [8th European Conference on Radar Meteorology and Hydrology](http://www.pa.op.dlr.de/erad2014/index.html)
   Garmisch-Partenkirchen, Germany, September 1-5, 2014.
 
