@@ -12,9 +12,10 @@ Oral Presentation
   Chicago, IL, August 13, 2015.
   [IPython Notebook](2015_ChiPy_conda_talk/ChiPy_conda_talk.ipynb)
 
-* [**Exploring Open Access Weather Radar with the Python ARM Toolkit**]().
+* [**Exploring Open Access Weather Radar with the Python ARM Toolkit**](http://nbviewer.ipython.org/format/slides/github/jjhelmus/presentations/blob/master/2015_SciPy_PyART_talk/SciPy2015_OpenAccessRadar_jjh.ipynb).
   Presented at [SciPy 2015](http://scipy2015.scipy.org/),
   Austin, Texas, July 6-12, 2015.
+  [IPython Notebook](2015_SciPy_PyART_talk/SciPy2015_OpenAccessRadar_jjh.ipynb)
   [Video](https://www.youtube.com/watch?v=FGA1Wd9xTH0)
 
 * [**Speeding Up Python Data Analysis Using Cython**]().
