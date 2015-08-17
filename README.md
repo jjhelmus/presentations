@@ -52,10 +52,22 @@ Oral Presentation
 Posters
 -------
 
-* [Dealiasing Radar Doppler Velocities Using Two Novel Unfolding Algorithms](2015_ARMASR_Meeting.pdf).
+* [**Dealiasing Radar Doppler Velocities Using Two Novel Unfolding Algorithms**](2015_ARMASR_Meeting.pdf).
   Presented at the [2015 ARM/ASR Joint User Facility PI Meeting](http://www.orau.gov/armasrpi2015/agenda.htm),
   Vienna, Virgina, March 16-20, 2015.
 
-* [Keeping Scientists Happy: Creating Easy to Install Scientific Python Packages](2014_SciPy_Conference_Python_Packaging.pdf).
+* [**Keeping Scientists Happy: Creating Easy to Install Scientific Python Packages**](2014_SciPy_Conference_Python_Packaging.pdf).
   Presented at [SciPy 2014](https://conference.scipy.org/scipy2014/),
   Austin, Texas, July 6-12, 2014.
+
+* [**The Python-ARM Radar Toolkit (Py-ART), an open source package for weather radar**](2013_AMSRadar_PyART_poster.pdf)
+  Presented at the [36th Conference on Radar Meteorology](https://www.ametsoc.org/meet/fainst/201336radar.html)
+  Breckenridge, CO, September 16-20, 2013.
+
+* [**Technical and social challenges in creating the Python ARM Radar Toolkit (Py-ART**](2013_SciPy_PyART_poster.pdf)
+  Presented at [SciPy 2013](http://conference.scipy.org/scipy2013/)
+  Austin, Texas, June 24-29, 2013.
+
+* [**Development and uses of the Python-ARM Radar Toolkit (Py-ART)**](2013_ASR_PyART_poster.pdf)
+  Presented at the [2013 ASR Science Team Meeting](http://asr.science.energy.gov/meetings/stm/2013-march)
+  Potomac, Maryland, March 18-21, 2013.
