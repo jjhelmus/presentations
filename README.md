@@ -7,9 +7,10 @@ Feel free to email me, jjhelmus [at] gmail.com, with questions or comments.
 Oral Presentation
 -----------------
 
-* [**Keep calm and conda install**]().
+* [**Keep calm and conda install**](http://nbviewer.ipython.org/format/slides/github/jjhelmus/presentations/blob/master/2015_ChiPy_conda_talk/ChiPy_conda_talk.ipynb).
   Presented at [ChiPy](http://www.chipy.org/)
   Chicago, IL, August 13, 2015.
+  [IPython Notebook](ChiPy_conda_talk/ChiPy_conda_talk.ipynb)
 
 * [**Exploring Open Access Weather Radar with the Python ARM Toolkit**]().
   Presented at [SciPy 2015](http://scipy2015.scipy.org/),
