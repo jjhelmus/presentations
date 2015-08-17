@@ -1,0 +1,32 @@
+package:
+    name: pyart
+    version: 1.4.0
+
+source:
+    fn: arm_pyart-1.4.0.tar.gz
+    url: https://pypi.python.org/packages/source/a/arm_pyart/arm_pyart-1.4.0.tar.gz
+    md5: d92af9338a0f2ede53f6e2dc22492083
+
+build:
+    number: 0
+
+requirements:
+    build:
+        - python
+        - numpy
+        - trmm_rsl
+
+    run:
+        - python
+        - numpy
+        - scipy
+        - matplotlib
+        - netcdf4
+
+test:
+    imports:
+        - pyart
+
+about:
+    home: http://arm-doe.github.io/pyart/
+    license: BSD
