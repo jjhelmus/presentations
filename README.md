@@ -44,7 +44,7 @@ Oral Presentation
   Atlanta, GA, February 2-6, 2014.
   [Video](https://ams.confex.com/ams/94Annual/videogateway.cgi/id/25623?recordingid=25623)
 
-* **nmrglue: a Python Module for Working with NMR Data**.
+* [**nmrglue: a Python Module for Working with NMR Data**.](2012_SciPy_nmrglue_talk.pdf).
   Presented at [SciPy 2012](http://conference.scipy.org/scipy2012/)
   Austin, Texas, July 16-21, 2012.
   [Video](http://pyvideo.org/video/1236/nmrglue-a-python-module-for-working-with-nmr-dat)
