@@ -75,3 +75,21 @@ Posters
 * [**Development and uses of the Python-ARM Radar Toolkit (Py-ART)**](2013_ASR_PyART_poster.pdf)
   Presented at the [2013 ASR Science Team Meeting](http://asr.science.energy.gov/meetings/stm/2013-march),
   Potomac, Maryland, March 18-21, 2013.
+
+Courses and tutorials
+---------------------
+
+* [**Open Source Radar Short Course**](https://www2.ametsoc.org/ams/index.cfm/meetings-events/ams-meetings/open-source-radar-short-course/).
+  Given at the [37th Conference on Radar Meteorology](https://www2.ametsoc.org/ams/index.cfm/meetings-events/ams-meetings/37th-conference-on-radar-meteorology/),
+  Norman, Oklahoma, September 13, 2015.
+  [Course Material](https://github.com/openradar/AMS-Short-Course-on-Open-Source-Radar-Software).
+
+* [**PyART, Python ARM Radar Toolkit**](http://asr.science.energy.gov/meetings/stm/2015-march/agenda).
+  Presented at the [2015 ARM/ASR Joint User Facility PI Meeting](http://www.orau.gov/armasrpi2015/agenda.htm),
+  Vienna, Virgina, March 18, 2015.
+  [Course Material](https://github.com/ARM-DOE/notebooks/tree/master/ASR_PI_2015)
+
+* [**Open Source Radar Short Course**](http://www.pa.op.dlr.de/erad2014/workshops/overview.html).
+  Given at the [8th European Conference on Radar Meteorology and Hydrology](http://www.pa.op.dlr.de/erad2014/index.html)
+  Garmisch-Partenkirchen, Germany, August 31, 2014.
+  [Course Material](https://github.com/openradar/open_source_radar_short_course)
