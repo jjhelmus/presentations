@@ -7,6 +7,11 @@ Feel free to email me, jjhelmus [at] gmail.com, with questions or comments.
 Oral Presentation
 -----------------
 
+* [**The Language, Libraries and Culture of Python in Meteorology**](2016_AMS_Annual_Meeting_Keynote.pdf)
+  Presented at [96th AMS Annual Meeting](https://annual.ametsoc.org/2016/)
+  In the [Sixth Symposium on Advances in Modeling and Analysis Using Python](https://ams.confex.com/ams/96Annual/webprogram/6PYTHON.html).
+  New Orleans, Louisiana, January 10-14, 2016.
+
 * [**Keep calm and conda install**](http://nbviewer.ipython.org/format/slides/github/jjhelmus/presentations/blob/master/2015_ChiPy_conda_talk/ChiPy_conda_talk.ipynb).
   Presented at [ChiPy](http://www.chipy.org/)
   Chicago, IL, August 13, 2015.
