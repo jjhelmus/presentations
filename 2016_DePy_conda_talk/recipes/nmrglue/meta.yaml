@@ -1,0 +1,28 @@
+package:
+  name: nmrglue
+  version: 0.5
+
+source:
+  fn: nmrglue-0.5.tar.gz
+  url: https://pypi.python.org/packages/source/n/nmrglue/nmrglue-0.5.tar.gz
+  md5: 4cf63caceae0b9f0a144f07b6663e670
+
+build:
+  number: 0
+
+requirements:
+  build:
+    - python
+  run:
+    - python
+    - numpy
+    - scipy
+
+test:
+  imports:
+    - nmrglue
+
+about:
+    home: http://www.nmrglue.com
+    license: BSD-3-Clause
+    summary: "A module for working with NMR data in Python"
