@@ -7,6 +7,12 @@ Feel free to email me, jjhelmus [at] gmail.com, with questions or comments.
 Oral Presentation
 -----------------
 
+* [**Building and Distributing Python Software with Conda**](http://nbviewer.jupyter.org/format/slides/github/jjhelmus/presentations/blob/master/2016_DePy_conda_talk/DePy_conda_talk.ipynb#/)
+  Presented at [DePy 2016](http://mdp.cdm.depaul.edu/DePy2016),
+  Chicago, IL, May 7, 2016.
+  [Jupyter Notebook](2016_DePy_conda_talk/DePy_conda_talk.ipynb)
+  [Video](https://www.youtube.com/watch?v=HSK-6dCnYVQ)
+
 * [**The Language, Libraries and Culture of Python in Meteorology**](2016_AMS_Annual_Meeting_Keynote.pdf)
   Presented at [96th AMS Annual Meeting](https://annual.ametsoc.org/2016/)
   In the [Sixth Symposium on Advances in Modeling and Analysis Using Python](https://ams.confex.com/ams/96Annual/webprogram/6PYTHON.html).
