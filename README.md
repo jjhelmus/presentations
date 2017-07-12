@@ -7,6 +7,10 @@ Feel free to email me, jjhelmus [at] gmail.com, with questions or comments.
 Oral Presentation
 -----------------
 
+* [**Berryconda : Scientific Python on the Raspberry Pi**](2017_07_SciPy_Berryconda.pdf)
+  Presented at [SciPy 2017](https://scipy2017.scipy.org/),
+  Austin, Texas, July 10-16, 2017.
+
 * [**Building and Distributing Python Software with Conda**](http://nbviewer.jupyter.org/format/slides/github/jjhelmus/presentations/blob/master/2016_DePy_conda_talk/DePy_conda_talk.ipynb#/)
   Presented at [DePy 2016](http://mdp.cdm.depaul.edu/DePy2016),
   Chicago, IL, May 7, 2016.
