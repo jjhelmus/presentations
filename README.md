@@ -7,6 +7,14 @@ Feel free to email me, jjhelmus [at] gmail.com, with questions or comments.
 Oral Presentation
 -----------------
 
+* [** Creating a Python Data Science Distribution for ARM with Conda**](2019_ARM_DataScienceDistroConda.pdf)
+  Presented at [Arm Research Conference 2019](https://www.arm.com/company/events/research-summit)
+  Austin, Texas, September 15-18, 2019.
+
+* [**Numba and conda Tools for fast reliable data analysis**](2019_HEP_Conda_and_Numba.pdf)
+  Presented at [HOW2019](https://indico.cern.ch/event/759388/)
+  Newport News, Virginia, March 18-22, 2019.
+
 * [**Berryconda : Scientific Python on the Raspberry Pi**](2017_07_SciPy_Berryconda.pdf)
   Presented at [SciPy 2017](https://scipy2017.scipy.org/),
   Austin, Texas, July 10-16, 2017.
