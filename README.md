@@ -102,6 +102,11 @@ Posters
 Courses and tutorials
 ---------------------
 
+* [**The Sheer Joy of Packaging**](https://www.youtube.com/watch?v=xiI1i525ljE)
+  Given at [Scipy 2018](https://scipy2018.scipy.org/index.html)
+  Austin, TX, July 9-15, 2018
+  [Course Material](https://python-packaging-tutorial.readthedocs.io/en/latest/)
+
 * [**Open Source Radar Short Course**](https://www2.ametsoc.org/ams/index.cfm/meetings-events/ams-meetings/open-source-radar-short-course/).
   Given at the [37th Conference on Radar Meteorology](https://www2.ametsoc.org/ams/index.cfm/meetings-events/ams-meetings/37th-conference-on-radar-meteorology/),
   Norman, Oklahoma, September 13, 2015.
