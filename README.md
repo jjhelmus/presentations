@@ -7,6 +7,11 @@ Feel free to email me, jjhelmus [at] gmail.com, with questions or comments.
 Oral Presentation
 -----------------
 
+* [**An Introduction to the Conda Ecosystem**](2020_AnacondaCON_Intro_to_Conda.pdf)
+  Presented at [AnacondaCON 2020](https://anacondacon.io/)
+  Virtual, June 3-5, 2020.
+  [Video](https://gateway.on24.com/wcc/eh/2336732/lp/2375677/an-introduction-to-the-conda-ecosystem/)
+
 * [**Creating a Python Data Science Distribution for ARM with Conda**](2019_ARM_DataScienceDistroConda.pdf)
   Presented at [Arm Research Conference 2019](https://www.arm.com/company/events/research-summit)
   Austin, Texas, September 15-18, 2019.
