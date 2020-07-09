@@ -102,6 +102,11 @@ Posters
 Courses and tutorials
 ---------------------
 
+* [**Introduction to Deep Learning with GPUs**](https://github.com/ContinuumIO/ac2020-dl-gpu/raw/master/AnacondaCON2020_GPU_Deep_Learning_Tutorial.pdf)
+  Given at [AnacondaCON 2020](https://anacondacon.io/)
+  Virtual, June 3-5, 2020.
+  [Course Material](https://github.com/ContinuumIO/ac2020-dl-gpu)
+
 * [**The Sheer Joy of Packaging**](https://www.youtube.com/watch?v=xiI1i525ljE)
   Given at [Scipy 2018](https://scipy2018.scipy.org/index.html)
   Austin, TX, July 9-15, 2018
